@@ -11,12 +11,6 @@ news-please also allows Python developers to use the crawling and extraction fun
 
 If you want to contribute to news-please, please first read [here](#contributions).
 
-## Announcements
-
-03/23/2021: If you're interested in **sentiment classification** in news articles, check out our large-scale dataset for target-dependent sentiment classification. We also publish an easy-to-use neural model that achieves state-of-the-art performance. Visit the project [here](https://github.com/fhamborg/NewsMTSC).
-
-06/01/2018: If you're interested in **event extraction** from news, you might also want to check out our new project, [Giveme5W1H](https://github.com/fhamborg/Giveme5W1H) - a tool that extracts phrases answering the journalistic five W and one H questions to describe an article's main event, i.e., who did what, when, where, why, and how.
-
 ## Extracted information
 news-please extracts the following attributes from news articles. An examplary json file as extracted by news-please can be found [here](https://github.com/fhamborg/news-please/blob/master/newsplease/examples/sample.json).
 * headline
